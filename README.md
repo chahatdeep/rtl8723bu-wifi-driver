@@ -1,6 +1,9 @@
 # rtl8723bu
 Driver for Realtek RTL8723BU Wireless Adapter with Hardware ID `0bda:b720`
 
+- Original Author: [lwfinger](https://github.com/lwfinger/rtl8723bu)
+
+
 # How to use?
 ## Get the source first.
 Get it from Github repository with the following command in the Linux terminal.
