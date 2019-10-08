@@ -1,10 +1,9 @@
-# rtl8723bu
+# rtl8723bu-wifi-driver
 Driver for Realtek RTL8723BU Wireless Adapter with Hardware ID `0bda:b720`. Tested with EDIMAX N150 WiFi-Bluetooth 4.0 USB adaptor on Intel Up board.
 
 - Original Author: [lwfinger](https://github.com/lwfinger/rtl8723bu)
 
 
-# How to use?
 ## Instructions
 Get it from Github repository with the following command in the Linux terminal.
 ```
