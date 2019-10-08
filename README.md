@@ -15,7 +15,7 @@ By default driver operates the hardware as a station AND as an access point *sim
 
 If you do not want two devices (station and an access point) *simultaneously*, then follow these instructions.
 
-- **Step 1: Run the following command in the Linux terminal. **
+- **Step 1: Run the following command in the Linux terminal.**
 ```
 vim Makefile
 ```
