@@ -17,7 +17,7 @@ If you do not want two devices (station and an access point) *simultaneously*, t
 
 - **Step 1: Run the following command in the Linux terminal.**
 ```
-vim Makefile
+vi Makefile
 ```
 
 - **Step 2: Find the line that contains `EXTRA_CFLAGS += -DCONFIG_CONCURRENT_MODE` and insert a `#` symbol at the beginning of that line. This comments that line and disables concurrent mode.**
